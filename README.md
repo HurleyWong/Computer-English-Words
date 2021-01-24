@@ -1,5 +1,8 @@
-# Computer-English-Words
-计算机专业术语英文词汇
+<div align="center">
+    <img src="/assets/computer-english-words.png" width="400">
+</div>
+
+> 计算机专业术语英文词汇
 
 ## 分类
 * [云计算](云计算/云计算.md)
